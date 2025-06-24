@@ -1,4 +1,3 @@
-# todo
 # https://dashiel333.github.io/todo/
 ToDo List is a simple and lightweight task management application built with vanilla JavaScript, HTML, and CSS. It allows users to manage daily tasks directly in the browser, with support for persistent data using localStorage.
 
