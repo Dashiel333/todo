@@ -84,7 +84,7 @@ function checkEmptyList() {
     if (tasks.length === 0) {
         const emptyListElement = `<div class="todo-empty" id="emptyList">
                 <img src="https://cdn-icons-png.flaticon.com/512/4076/4076549.png" alt="Empty" width="50" />
-                <p>Список дел пуст</p>
+                <p>To-do list is empty</p>
             </div>`;
         taskList.insertAdjacentHTML('afterbegin', emptyListElement)
     }
